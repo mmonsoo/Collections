@@ -28,6 +28,7 @@ public class Program {
 		listechaine.add("Vita");
 		listechaine.add("Alexandre");
 		listechaine.add("Camille");
+		//
 
 		// On affiche la taille de ma liste chainée
 		System.out.println("taille de ma liste chainée " + listechaine.size());
